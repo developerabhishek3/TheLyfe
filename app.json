@@ -1,0 +1,7 @@
+{
+  "name": "LyfeApp",
+  "displayName": "LyfeApp",
+  "androidStatusBar": {
+    "backgroundColor": "#000000"
+  }
+}

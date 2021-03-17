@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336644742829",
+    "firebase_url": "https://lyfeapp-fc3a6.firebaseio.com",
+    "project_id": "lyfeapp-fc3a6",
+    "storage_bucket": "lyfeapp-fc3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336644742829:android:4bdba0efeccd083a427024",
+        "android_client_info": {
+          "package_name": "com.lyfeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336644742829-nt5gkp506l1ecbpthm5cqfg9du5nmqeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lyfeapp",
+            "certificate_hash": "1e2382a4c035cc06aadd2f006f2c9a0defca8b8b"
+          }
+        },
+        {
+          "client_id": "336644742829-p9hfa5cqhoeem8ma4mn1cqg2edt87nph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByQfUXcpK1EYhQspzBDwMPf5esMO5x6AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336644742829-p9hfa5cqhoeem8ma4mn1cqg2edt87nph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
